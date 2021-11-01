@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rhema Keren!!!
 - 👀 I’m interested in Analytics and Networks
 - 🌱 I’m currently learning Computer Science and Engineering
-- 💞️ I’m looking to collaborate on (I'm still kinda thinking about it)
+- 💞️ I’m looking to collaborate on Data Analytics & IoT related stuff
 - 📫 How to reach me rhema2311@gmail.com
 
 <!---
