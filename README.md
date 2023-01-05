@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rhema Marneni!!!
 - 👀 I’m interested in Databases and Networks!
-- 🌱 I’m currently learning Computer Science and Informational Sciences
+- 🌱 I’m currently learning Computer and Informational Sciences
 - 💞️ I’m looking to collaborate on Databases and Web Dev related stuff
 - 📫 How to reach me rhema2311@gmail.com
 
